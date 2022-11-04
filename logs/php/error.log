@@ -1,0 +1,29 @@
+[03-Nov-2022 15:11:32 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:11:32 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:11:33 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:11:34 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:11:51 UTC] PHP Parse error:  syntax error, unexpected token "?", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:11:51 UTC] PHP Parse error:  syntax error, unexpected token "?", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:11:52 UTC] PHP Parse error:  syntax error, unexpected token "?", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:11:53 UTC] PHP Parse error:  syntax error, unexpected token "?", expecting end of file in /Users/zackxu/project/Local Sites/app/public/index.php on line 15
+[03-Nov-2022 15:12:04 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/zackxu/project/Local Sites/app/public/index.php on line 17
+[03-Nov-2022 15:12:04 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/zackxu/project/Local Sites/app/public/index.php on line 17
+[03-Nov-2022 15:12:04 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/zackxu/project/Local Sites/app/public/index.php on line 17
+[03-Nov-2022 15:12:06 UTC] PHP Parse error:  syntax error, unexpected token "<" in /Users/zackxu/project/Local Sites/app/public/index.php on line 17
+[03-Nov-2022 15:12:23 UTC] PHP Parse error:  syntax error, unexpected token "require", expecting "," or ";" in /Users/zackxu/project/Local Sites/app/public/index.php on line 19
+[03-Nov-2022 15:12:23 UTC] PHP Parse error:  syntax error, unexpected token "require", expecting "," or ";" in /Users/zackxu/project/Local Sites/app/public/index.php on line 19
+[03-Nov-2022 15:12:23 UTC] PHP Parse error:  syntax error, unexpected token "require", expecting "," or ";" in /Users/zackxu/project/Local Sites/app/public/index.php on line 19
+[03-Nov-2022 15:12:24 UTC] PHP Parse error:  syntax error, unexpected token "require", expecting "," or ";" in /Users/zackxu/project/Local Sites/app/public/index.php on line 19
+[03-Nov-2022 15:12:24 UTC] PHP Parse error:  syntax error, unexpected token "require", expecting "," or ";" in /Users/zackxu/project/Local Sites/app/public/index.php on line 19
+[03-Nov-2022 15:12:25 UTC] PHP Parse error:  syntax error, unexpected token "require", expecting "," or ";" in /Users/zackxu/project/Local Sites/app/public/index.php on line 19
+[03-Nov-2022 15:12:27 UTC] PHP Parse error:  syntax error, unexpected token "require", expecting "," or ";" in /Users/zackxu/project/Local Sites/app/public/index.php on line 19
+[03-Nov-2022 15:13:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/zackxu/project/Local Sites/app/public/experiment.php on line 2
+[03-Nov-2022 15:14:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function current_date() in /Users/zackxu/project/Local Sites/app/public/experiment.php:1
+Stack trace:
+#0 {main}
+  thrown in /Users/zackxu/project/Local Sites/app/public/experiment.php on line 1
+[03-Nov-2022 15:14:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: date() expects at least 1 argument, 0 given in /Users/zackxu/project/Local Sites/app/public/experiment.php:1
+Stack trace:
+#0 /Users/zackxu/project/Local Sites/app/public/experiment.php(1): date()
+#1 {main}
+  thrown in /Users/zackxu/project/Local Sites/app/public/experiment.php on line 1
